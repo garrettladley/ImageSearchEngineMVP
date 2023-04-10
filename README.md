@@ -1,4 +1,4 @@
-# Simple Similar Image Search Engine MVP
+# Simple Image Search Engine MVP
 
 This is a simple image search engine MVP that leverages [Weaviate](https://weaviate.io/), a vector database that allows you to create and query embeddings with pre-trained deep learning models such as ResNet-50 to vectorize images.
 
